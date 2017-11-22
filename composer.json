@@ -1,0 +1,29 @@
+{
+  "name": "ellotta/yii2-vegas",
+  "description": "Yii2 wrapper for jaysalvat/vegas",
+  "type": "yii2-extension",
+  "minimum-stability": "dev",
+  "keywords": [
+    "yii2",
+    "extension",
+    "vegas",
+    "yii2 vegas slider",
+	"jaysalvat/vegas"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ellotta",
+      "email": "matteolottaroli@hotmail.it"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "bower-asset/vegas": "2.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ellotta\\vegas\\": ""
+    }
+  }
+}
