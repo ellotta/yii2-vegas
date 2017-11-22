@@ -7,8 +7,7 @@
     "yii2",
     "extension",
     "vegas",
-    "yii2 vegas slider",
-	"jaysalvat/vegas"
+    "yii2 vegas slider"
   ],
   "license": "MIT",
   "authors": [
