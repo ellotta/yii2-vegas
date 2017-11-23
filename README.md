@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist ellotta/yii2-vegas "*"
+composer require --dev ellotta/yii2-vegas "*"
 ```
 
 or add
@@ -19,7 +19,7 @@ or add
 "ellotta/yii2-vegas": "*"
 ```
 
-to the require section of your `composer.json` file.
+to the require-dev section of your `composer.json` file.
 
 
 Usage
