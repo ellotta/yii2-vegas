@@ -9,7 +9,6 @@ use yii\helpers\Json;
 
 class Vegas extends Widget
 {
-
     public $selector = 'body';
 
     public $jsOptions;
