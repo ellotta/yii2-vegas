@@ -18,7 +18,7 @@ class VegasAsset extends AssetBundle
 
         $this->css[] = YII_DEBUG ? 'vegas.css' : 'vegas.min.css';
 
-        $this->js[] = YII_DEBUG ? 'vegas.js"' : 'vegas.min.js';
+        $this->js[] = YII_DEBUG ? 'vegas.js' : 'vegas.min.js';
     }
 }
 
